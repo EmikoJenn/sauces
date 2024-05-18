@@ -39,3 +39,8 @@
 > https://www.youtube.com/@BroCodez
 [En]
 ```
+### Catalogos
+```md
+> https://devresourc.es/
+[En]
+```
